@@ -1,0 +1,6 @@
+TP 5 : Word2Vec
+1- Implémentation de votre modèle Skip gram avec TensorFlow en suivant les étapes décrites dans le livre Natural Language Processing with TensorFlow
+Le code se trouve à l'adresse : https://github.com/thushv89/packt_nlp_tensorflow_2
+Refaire cet exercice en implémentant votre modèle Skip gram en utilisant les résultats obtenus dans le cours et éventuellement vos améliorations.  
+
+2-Réalisation de l'exercice résolu indiqué dans le lien https://colab.research.google.com/github/futuremojo/nlp-demystified/blob/main/notebooks/nlpdemystified_word_vectors.ipynb 
